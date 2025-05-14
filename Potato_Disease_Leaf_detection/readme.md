@@ -23,7 +23,7 @@ The following models were trained and evaluated on this dataset:
 
 | Model         | Description                         | Accuracy | Notes |
 |---------------|-------------------------------------|----------|-------|
-| CNN from Scratch | Custom-built convolutional network | *TBD*    | Lightweight, trained from ground up |
-| ResNet50      | Pretrained on ImageNet, fine-tuned   | *TBD*    | Good baseline for transfer learning |
-| MobileNet     | Pretrained lightweight model         | *TBD*    | Fast and efficient for deployment |
+| CNN from Scratch | Custom-built convolutional network | 95%    | Lightweight, trained from ground up |
+| ResNet50      | Pretrained on ImageNet, fine-tuned   | 96%    | Good baseline for transfer learning |
+| MobileNet     | Pretrained lightweight model         | 97%    | Fast and efficient for deployment |
 
