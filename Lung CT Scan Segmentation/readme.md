@@ -1,6 +1,7 @@
 # Lung CT Scan Segmentation
 
 This project focuses on building a **U-Net model** for **image segmentation** of lung fields from **chest CT scans**. The task is to segment the lung fields into two classes: **lung** and **background** (chest). The goal is to automate the segmentation process, which is critical in diagnosing respiratory conditions from CT images.
+![mask](https://github.com/user-attachments/assets/40452b7d-a3ee-4843-abbf-dd67ba8c2046)
 
 ## Key Features
 
