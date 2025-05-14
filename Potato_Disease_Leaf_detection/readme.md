@@ -1,6 +1,7 @@
 # 🍠 Potato Disease Leaf Dataset (PLD)
 
 This repository hosts the **Potato Disease Leaf Dataset (PLD)**, a curated collection of annotated images of potato leaves categorized by disease type. It is useful for building machine learning and deep learning models for plant disease detection and precision agriculture applications.
+![po](https://github.com/user-attachments/assets/48e6915b-0857-4fba-98ba-a49ccc9161cb)
 
 ## 📂 Dataset Overview
 
