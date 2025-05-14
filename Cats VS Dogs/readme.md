@@ -1,6 +1,9 @@
 # Cats vs Dogs Classification using Transfer Learning (MobileNetV2)
 
+![cat](https://github.com/user-attachments/assets/7b46fa5e-bfa2-4ae2-93e4-d22a201a05ca)
+
 This project demonstrates the power of **Transfer Learning** using the **MobileNetV2** architecture to classify images of cats and dogs. Transfer learning allows the use of a pre-trained model on a new task, significantly reducing the training time and improving performance, especially when working with limited data.
+
 
 ### Project Overview
 
