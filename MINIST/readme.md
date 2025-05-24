@@ -1,4 +1,4 @@
-# 🧠 MNIST Digit Classification with CNN
+# 🧠 MNIST Digit Classification with CNN and ConvLSTM1D
 
 ## 📄 Overview / Abstract
 
